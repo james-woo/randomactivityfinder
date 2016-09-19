@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.Sqlite.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.WebBrowser.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Droid.Shared\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Droid.Support.V4\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Plugins.Sqlite.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Plugins.WebBrowser.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.Sqlite.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\MvvmCross.Plugins.WebBrowser.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\SQLitePCL.batteries.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
