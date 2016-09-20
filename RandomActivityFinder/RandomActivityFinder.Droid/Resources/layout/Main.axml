@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -7,8 +7,7 @@
     android:paddingRight="@dimen/default_margin"
     android:paddingTop="@dimen/default_margin"
     android:paddingBottom="@dimen/default_margin"
-    android:orientation="vertical"
-    android:background="@color/white">
+    android:orientation="vertical">
 <!-- How Far Title -->
     <TextView
         android:layout_width="wrap_content"
@@ -17,7 +16,7 @@
         android:id="@+id/main_distance_textview"
         android:textSize="24dp"
         android:layout_marginTop="42dp"
-        android:textColor="@color/normal_text" />
+        android:textColor="@color/primary_text" />
 <!-- How Far Textbox -->
     <EditText
         android:layout_width="match_parent"
@@ -26,7 +25,7 @@
         android:inputType="number"
         android:hint="@string/main_howfarhint"
         android:textSize="24dp"
-        android:textColor="@color/normal_text" />
+        android:textColor="@color/primary_text" />
 <!-- Select Activities Title -->
     <TextView
         android:layout_width="wrap_content"
@@ -35,25 +34,28 @@
         android:id="@+id/main_activities_title_textview"
         android:textSize="24dp"
         android:layout_marginTop="42dp"
-        android:textColor="@color/normal_text" />
+        android:textColor="@color/primary_text" />
 <!-- Food Checkbox -->
     <CheckBox
         android:id="@+id/main_checkbox_food"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/main_food" />
+        android:text="@string/main_food"
+        android:textColor="@color/primary_text" />
 <!-- Arts and Entertainment Checkbox -->
     <CheckBox
         android:id="@+id/main_checkbox_ae"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/main_arts" />
+        android:text="@string/main_arts"
+        android:textColor="@color/primary_text" />
 <!-- Sports Checkbox -->
     <CheckBox
         android:id="@+id/main_checkbox_sports"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/main_sports" />
+        android:text="@string/main_sports"
+        android:textColor="@color/primary_text" />
 <!-- Custom Search Title -->
     <TextView
         android:layout_width="wrap_content"
@@ -62,7 +64,7 @@
         android:id="@+id/main_custom_title_textview"
         android:textSize="24dp"
         android:layout_marginTop="42dp"
-        android:textColor="@color/normal_text" />
+        android:textColor="@color/primary_text" />
 <!-- Custom Search Textbox -->
     <EditText
         android:layout_width="match_parent"
@@ -71,7 +73,7 @@
         android:inputType="text"
         android:hint="@string/main_custom_hint"
         android:textSize="24dp"
-        android:textColor="@color/normal_text" />
+        android:textColor="@color/primary_text" />
 <!-- RTD Button -->
     <Button
         android:layout_width="match_parent"

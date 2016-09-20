@@ -14,15 +14,25 @@ namespace RandomActivityFinder.Droid.Activities
         Name = "randomactivityfinder.droid.activities.MainActivity")]
     public class MainActivity : MvxCachingFragmentCompatActivity<MainViewModel>
     {
-		int count = 1;
-
-		protected override void OnCreate (Bundle bundle)
+        static MainActivity instance = new MainActivity();
+        public static MainActivity CurrentActivity => instance;
+        public new MainViewModel ViewModel
+        {
+            get { return (MainViewModel)base.ViewModel; }
+            set { base.ViewModel = value; }
+        }
+        protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
-		}
+
+            var toolbar = FindViewById<Toolbar>(Resource.Id.action_bar);
+            SupportActionBar.SetDisplayShowTitleEnabled(false);
+            SupportActionBar.SetDisplayHomeAsUpEnabled(true);
+            toolbar.SetTitle(Resource.String.application_name);
+        }
 	}
 }
 

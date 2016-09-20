@@ -1074,11 +1074,8 @@ namespace RandomActivityFinder.Droid
 			// aapt resource value: 0x7f0b0059
 			public const int abc_secondary_text_material_light = 2131427417;
 			
-			// aapt resource value: 0x7f0b0048
-			public const int accent = 2131427400;
-			
 			// aapt resource value: 0x7f0b0049
-			public const int accentDark = 2131427401;
+			public const int accent = 2131427401;
 			
 			// aapt resource value: 0x7f0b0004
 			public const int accent_material_dark = 2131427332;
@@ -1125,9 +1122,6 @@ namespace RandomActivityFinder.Droid
 			// aapt resource value: 0x7f0b0011
 			public const int button_material_light = 2131427345;
 			
-			// aapt resource value: 0x7f0b004a
-			public const int darkGray = 2131427402;
-			
 			// aapt resource value: 0x7f0b003a
 			public const int design_fab_shadow_end_color = 2131427386;
 			
@@ -1171,7 +1165,7 @@ namespace RandomActivityFinder.Droid
 			public const int dim_foreground_material_light = 2131427349;
 			
 			// aapt resource value: 0x7f0b004d
-			public const int divider_color = 2131427405;
+			public const int divider = 2131427405;
 			
 			// aapt resource value: 0x7f0b0016
 			public const int foreground_material_dark = 2131427350;
@@ -1190,6 +1184,9 @@ namespace RandomActivityFinder.Droid
 			
 			// aapt resource value: 0x7f0b001b
 			public const int hint_foreground_material_light = 2131427355;
+			
+			// aapt resource value: 0x7f0b004c
+			public const int icons = 2131427404;
 			
 			// aapt resource value: 0x7f0b004e
 			public const int lightGray = 2131427406;
@@ -1230,14 +1227,11 @@ namespace RandomActivityFinder.Droid
 			// aapt resource value: 0x7f0b0027
 			public const int material_grey_900 = 2131427367;
 			
-			// aapt resource value: 0x7f0b004b
-			public const int normal_text = 2131427403;
-			
 			// aapt resource value: 0x7f0b0046
 			public const int primary = 2131427398;
 			
 			// aapt resource value: 0x7f0b0047
-			public const int primaryDark = 2131427399;
+			public const int primary_dark = 2131427399;
 			
 			// aapt resource value: 0x7f0b0028
 			public const int primary_dark_material_dark = 2131427368;
@@ -1245,11 +1239,17 @@ namespace RandomActivityFinder.Droid
 			// aapt resource value: 0x7f0b0029
 			public const int primary_dark_material_light = 2131427369;
 			
+			// aapt resource value: 0x7f0b0048
+			public const int primary_light = 2131427400;
+			
 			// aapt resource value: 0x7f0b002a
 			public const int primary_material_dark = 2131427370;
 			
 			// aapt resource value: 0x7f0b002b
 			public const int primary_material_light = 2131427371;
+			
+			// aapt resource value: 0x7f0b004a
+			public const int primary_text = 2131427402;
 			
 			// aapt resource value: 0x7f0b002c
 			public const int primary_text_default_material_dark = 2131427372;
@@ -1269,8 +1269,8 @@ namespace RandomActivityFinder.Droid
 			// aapt resource value: 0x7f0b0031
 			public const int ripple_material_light = 2131427377;
 			
-			// aapt resource value: 0x7f0b004c
-			public const int secondary_text = 2131427404;
+			// aapt resource value: 0x7f0b004b
+			public const int secondary_text = 2131427403;
 			
 			// aapt resource value: 0x7f0b0032
 			public const int secondary_text_default_material_dark = 2131427378;
@@ -2607,62 +2607,65 @@ namespace RandomActivityFinder.Droid
 			// aapt resource value: 0x7f070014
 			public const int appbar_scrolling_view_behavior = 2131165204;
 			
+			// aapt resource value: 0x7f070019
+			public const int application_name = 2131165209;
+			
 			// aapt resource value: 0x7f070015
 			public const int bottom_sheet_behavior = 2131165205;
 			
 			// aapt resource value: 0x7f070016
 			public const int character_counter_pattern = 2131165206;
 			
-			// aapt resource value: 0x7f070025
-			public const int main_all = 2131165221;
-			
-			// aapt resource value: 0x7f070023
-			public const int main_arts = 2131165219;
-			
-			// aapt resource value: 0x7f07001d
-			public const int main_budget = 2131165213;
-			
-			// aapt resource value: 0x7f07001e
-			public const int main_budgethint = 2131165214;
-			
 			// aapt resource value: 0x7f070026
-			public const int main_custom = 2131165222;
-			
-			// aapt resource value: 0x7f070027
-			public const int main_custom_hint = 2131165223;
-			
-			// aapt resource value: 0x7f070019
-			public const int main_distance = 2131165209;
-			
-			// aapt resource value: 0x7f070022
-			public const int main_food = 2131165218;
-			
-			// aapt resource value: 0x7f07001f
-			public const int main_howfar = 2131165215;
-			
-			// aapt resource value: 0x7f070020
-			public const int main_howfarhint = 2131165216;
-			
-			// aapt resource value: 0x7f07001c
-			public const int main_menu_donate = 2131165212;
-			
-			// aapt resource value: 0x7f07001b
-			public const int main_menu_help = 2131165211;
-			
-			// aapt resource value: 0x7f07001a
-			public const int main_menu_settings = 2131165210;
-			
-			// aapt resource value: 0x7f070029
-			public const int main_no_location_detected = 2131165225;
-			
-			// aapt resource value: 0x7f070028
-			public const int main_rtd = 2131165224;
-			
-			// aapt resource value: 0x7f070021
-			public const int main_selectactivities = 2131165217;
+			public const int main_all = 2131165222;
 			
 			// aapt resource value: 0x7f070024
-			public const int main_sports = 2131165220;
+			public const int main_arts = 2131165220;
+			
+			// aapt resource value: 0x7f07001e
+			public const int main_budget = 2131165214;
+			
+			// aapt resource value: 0x7f07001f
+			public const int main_budgethint = 2131165215;
+			
+			// aapt resource value: 0x7f070027
+			public const int main_custom = 2131165223;
+			
+			// aapt resource value: 0x7f070028
+			public const int main_custom_hint = 2131165224;
+			
+			// aapt resource value: 0x7f07001a
+			public const int main_distance = 2131165210;
+			
+			// aapt resource value: 0x7f070023
+			public const int main_food = 2131165219;
+			
+			// aapt resource value: 0x7f070020
+			public const int main_howfar = 2131165216;
+			
+			// aapt resource value: 0x7f070021
+			public const int main_howfarhint = 2131165217;
+			
+			// aapt resource value: 0x7f07001d
+			public const int main_menu_donate = 2131165213;
+			
+			// aapt resource value: 0x7f07001c
+			public const int main_menu_help = 2131165212;
+			
+			// aapt resource value: 0x7f07001b
+			public const int main_menu_settings = 2131165211;
+			
+			// aapt resource value: 0x7f07002a
+			public const int main_no_location_detected = 2131165226;
+			
+			// aapt resource value: 0x7f070029
+			public const int main_rtd = 2131165225;
+			
+			// aapt resource value: 0x7f070022
+			public const int main_selectactivities = 2131165218;
+			
+			// aapt resource value: 0x7f070025
+			public const int main_sports = 2131165221;
 			
 			// aapt resource value: 0x7f070013
 			public const int status_bar_notification_info_overflow = 2131165203;
@@ -2679,6 +2682,15 @@ namespace RandomActivityFinder.Droid
 		
 		public partial class Style
 		{
+			
+			// aapt resource value: 0x7f090159
+			public const int ActionBar = 2131296601;
+			
+			// aapt resource value: 0x7f09015b
+			public const int ActionBar_Subtitle = 2131296603;
+			
+			// aapt resource value: 0x7f09015a
+			public const int ActionBar_Title = 2131296602;
 			
 			// aapt resource value: 0x7f090086
 			public const int AlertDialog_AppCompat = 2131296390;

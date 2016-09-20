@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="ApplicationName">RandomActivityFinder</string>
+	<string name="application_name">RandomActivityFinder</string>
 
   <!-- Main Search Page -->
   <string name="main_distance">How Far?</string>

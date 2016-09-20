@@ -1,2 +1,2 @@
 android.app.Application
-RandomActivityFinder.Droid
+com.jameswoo.randomactivityfinder

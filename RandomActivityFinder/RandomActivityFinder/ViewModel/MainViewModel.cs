@@ -21,15 +21,5 @@ namespace RandomActivityFinder.Core.ViewModel
             _searchViewModel = new Lazy<SearchViewModel>(Mvx.IocConstruct<SearchViewModel>);
             _settingsViewModel = new Lazy<SettingsViewModel>(Mvx.IocConstruct<SettingsViewModel>);
         }
-
-        public void ShowSearch()
-        {
-            ShowViewModel<SearchViewModel>();
-        }
-
-        public void ShowSettings()
-        {
-            ShowViewModel<SettingsViewModel>();
-        }
     }
 }
