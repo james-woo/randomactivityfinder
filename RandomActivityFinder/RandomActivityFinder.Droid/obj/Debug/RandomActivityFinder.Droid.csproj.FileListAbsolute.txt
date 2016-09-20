@@ -1,6 +1,8 @@
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\RandomActivityFinder.Droid.dll.config
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\RandomActivityFinder.Droid.dll
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\RandomActivityFinder.Droid.pdb
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\com.jameswoo.randomactivityfinder.apk
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\com.jameswoo.randomactivityfinder-Signed.apk
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\MvvmCross.Binding.dll
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\MvvmCross.Core.dll
@@ -49,9 +51,14 @@ D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFin
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\RandomActivityFinder.Droid.csprojResolveAssemblyReference.cache
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\RandomActivityFinder.Droid.dll
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\RandomActivityFinder.Droid.pdb
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\android\bin\com.jameswoo.randomactivityfinder.apk
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\values\dimens.xml
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\splashscreen.xml
-D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\main.xml
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\searchview.xml
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\suggestionview.xml
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\settingsview.xml
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\mainview.xml
+D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\layout\menuview.xml
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\values\strings.xml
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\drawable-hdpi\icon.png
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\res\drawable-mdpi\icon.png
@@ -104,8 +111,5 @@ D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFin
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\com.jameswoo.randomactivityfinder.apk
-D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\com.jameswoo.randomactivityfinder-Signed.apk
-D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\android\bin\com.jameswoo.randomactivityfinder.apk
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\obj\Debug\RandomActivityFinder.Droid.dll.mdb
 D:\James\Development\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder\RandomActivityFinder.Droid\bin\Debug\RandomActivityFinder.Droid.dll.mdb

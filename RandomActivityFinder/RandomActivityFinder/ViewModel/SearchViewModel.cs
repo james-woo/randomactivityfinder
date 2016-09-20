@@ -89,7 +89,7 @@ namespace RandomActivityFinder.Core.ViewModel
         }
 
         public IMvxCommand SearchCommand
-        {
+        {   
             get
             {
                 return new MvxCommand(() =>
